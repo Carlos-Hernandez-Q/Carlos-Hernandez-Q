@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title description">
+  <title id="title">Juan Carlos Ramírez Hernández — Campo, control y plataforma</title>
+  <desc id="description">Presentación en grafito y burdeos con una arquitectura de tres capas conectadas: campo, control y plataforma.</desc>
+  <defs>
+    <pattern id="grid" width="23" height="23" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="0.65" fill="#8a6c68" opacity="0.28"/></pattern>
+    <linearGradient id="board" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#34292c"/><stop offset="1" stop-color="#19191b"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="348" rx="3" fill="#141414" stroke="#49383c"/>
+  <path d="M35 37h22m-11-11v22M1141 308h22m-11-11v22" stroke="#c26a75" fill="none"/>
+  <g font-family="'Segoe UI',Arial,sans-serif">
+    <text x="77" y="44" fill="#b6a79d" font-family="Consolas,monospace" font-size="11" letter-spacing="2">INGENIERÍA / HARDWARE / SOFTWARE</text>
+    <text x="45" y="135" fill="#eeeae2" font-size="68" font-weight="750" letter-spacing="-2.5">JUAN CARLOS</text>
+    <text x="45" y="193" fill="#c26a75" font-size="48" font-weight="700" letter-spacing="-1.5">RAMÍREZ HERNÁNDEZ.</text>
+    <text x="48" y="235" fill="#d1c7bc" font-size="17">Ingeniero de proyectos. Desarrollador. También docente.</text>
+    <path d="M48 266h48" stroke="#c26a75"/>
+    <text x="48" y="309" fill="#ae9f94" font-family="Consolas,monospace" font-size="12" letter-spacing="2">CAMPO → CONTROL → PLATAFORMA</text>
+  </g>
+  <path d="M747 36v278" stroke="#423438"/>
+  <rect x="773" y="26" width="399" height="297" fill="url(#grid)"/>
+  <g fill="none" stroke="#705359" stroke-width="1.2">
+    <path d="M827 111v132m243-132v132M949 174v132" stroke-dasharray="3 7"/>
+    <path d="m815 245 135-76 135 76-135 76Z" fill="url(#board)"/>
+    <path d="M815 245v8l135 76 135-76v-8M950 321v8"/>
+    <path d="m850 244 99-57 101 57-101 57Z" stroke="#685458"/>
+    <path d="m884 238 23-3 10 17 24-7 18 22 30-8 12 15" stroke="#c26a75" stroke-width="2"/>
+    <path d="m815 166 135-76 135 76-135 76Z" fill="url(#board)" stroke="#a78a82"/>
+    <path d="M815 166v8l135 76 135-76v-8M950 242v8"/>
+    <path d="m903 160 46-26 47 27-46 26Z" fill="#4c363c" stroke="#d0a6a7"/>
+    <path d="M903 160v15l47 27 46-27v-14M950 187v15" stroke="#a5847f"/>
+    <path d="m864 170 25-14 14 9m94-1 17-10 26 15" stroke="#b5968e"/>
+    <path d="m815 87 135-76 135 76-135 76Z" fill="url(#board)" stroke="#d0aaa4"/>
+    <path d="M815 87v8l135 76 135-76v-8M950 163v8" stroke="#95716c"/>
+    <path d="m895 81 38-22 38 22-38 22Z" fill="#4c363c" stroke="#ceb4a8"/>
+    <path d="M895 81v17l38 22 38-22V81M933 103v17" stroke="#ae8c87"/>
+    <ellipse cx="950" cy="101" rx="9" ry="13" transform="rotate(60 950 101)" fill="#774650" stroke="#d9a0ac"/>
+    <path d="m990 85 10 6-10 6m11-20 21 14-21 14" stroke="#c26a75"/>
+    <path d="M1085 87h20m-20 79h20m-20 79h20" stroke="#c26a75"/>
+  </g>
+  <g fill="#c6aea4" font-family="Consolas,monospace" font-size="10">
+    <text x="1113" y="91">01 / CAMPO</text><text x="1113" y="170">02 / PLC</text><text x="1113" y="249">03 / WEB</text>
+  </g>
+  <g fill="#e2b4ba"><circle cx="827" cy="111" r="2.5"/><circle cx="1070" cy="178" r="2.5"/><circle cx="950" cy="287" r="2.5"/></g>
+</svg>
