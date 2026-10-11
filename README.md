@@ -6,7 +6,7 @@
 
 Mi trabajo tiene dos frentes: **ingeniería industrial**, para desarrollar e integrar sistemas, y **docencia en ingeniería**, para llevar esa experiencia al aula y crear herramientas para mis alumnos.
 
-**[01 · Industria](#ingeniería-industrial)** · **[02 · Docencia y descargas](#docencia-en-ingeniería)** · [Portafolio](https://carlos-hernandez-q.github.io/) · [Contacto](mailto:juanramirezupav@gmail.com)
+**[01 · Industria](#user-content-ingeniería-industrial)** · **[02 · Docencia y descargas](#user-content-docencia-en-ingeniería)** · [Portafolio](https://carlos-hernandez-q.github.io/) · [Contacto](mailto:juanramirezupav@gmail.com)
 
 ## Ingeniería industrial
 
@@ -62,7 +62,7 @@ Librería experimental para explorar la comunicación de ESP32 y ESP32-S3 con LO
 1. Pulsa **Descargar ZIP** y descomprime el archivo.
 2. Para **Arduino IDE**, copia solo la carpeta `lib/CHQLogoWeb` a `Documentos/Arduino/libraries/CHQLogoWeb`.
 3. Reinicia Arduino IDE, selecciona tu placa ESP32 y abre uno de los ejemplos de la librería.
-4. Consulta la [guía del repositorio](https://github.com/Carlos-Hernandez-Q/CHQLogoWeb#laboratorio-existente) para preparar el laboratorio con el simulador.
+4. Consulta la [guía del repositorio](https://github.com/Carlos-Hernandez-Q/CHQLogoWeb/blob/main/README.md) para preparar el laboratorio con el simulador.
 
 Para **PlatformIO**, abre la carpeta completa del proyecto y sigue la configuración del README.
 
