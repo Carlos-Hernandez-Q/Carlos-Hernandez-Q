@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title description">
-  <title id="title">Juan Carlos Ramírez Hernández — Campo, control y plataforma</title>
-  <desc id="description">Presentación en grafito y burdeos con una arquitectura de tres capas conectadas: campo, control y plataforma.</desc>
+  <title id="title">Juan Carlos Ramírez Hernández — Ingeniería industrial y docencia</title>
+  <desc id="description">Presentación en grafito y burdeos de dos áreas de trabajo: ingeniería industrial y docencia en ingeniería.</desc>
   <defs>
     <pattern id="grid" width="23" height="23" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="0.65" fill="#8a6c68" opacity="0.28"/></pattern>
     <linearGradient id="board" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#34292c"/><stop offset="1" stop-color="#19191b"/></linearGradient>
@@ -11,9 +11,15 @@
     <text x="77" y="44" fill="#b6a79d" font-family="Consolas,monospace" font-size="11" letter-spacing="2">INGENIERÍA / HARDWARE / SOFTWARE</text>
     <text x="45" y="135" fill="#eeeae2" font-size="68" font-weight="750" letter-spacing="-2.5">JUAN CARLOS</text>
     <text x="45" y="193" fill="#c26a75" font-size="48" font-weight="700" letter-spacing="-1.5">RAMÍREZ HERNÁNDEZ.</text>
-    <text x="48" y="235" fill="#d1c7bc" font-size="17">Ingeniero de proyectos. Desarrollador. También docente.</text>
-    <path d="M48 266h48" stroke="#c26a75"/>
-    <text x="48" y="309" fill="#ae9f94" font-family="Consolas,monospace" font-size="12" letter-spacing="2">CAMPO → CONTROL → PLATAFORMA</text>
+    <text x="48" y="235" fill="#d1c7bc" font-size="17">Ingeniería industrial + Docencia en ingeniería.</text>
+    <g font-family="Consolas,monospace">
+      <rect x="48" y="270" width="284" height="53" fill="#1c191a" stroke="#503b40"/>
+      <text x="62" y="291" fill="#d8a2aa" font-size="12" letter-spacing="1">01 / INDUSTRIA</text>
+      <text x="62" y="310" fill="#b5a69d" font-size="10" letter-spacing="0.8">PROYECTOS DE CLIENTES · CÓDIGO PRIVADO</text>
+      <rect x="346" y="270" width="349" height="53" fill="#1c191a" stroke="#503b40"/>
+      <text x="360" y="291" fill="#d8a2aa" font-size="12" letter-spacing="1">02 / DOCENCIA</text>
+      <text x="360" y="310" fill="#b5a69d" font-size="10" letter-spacing="0.8">LIBRERÍAS PARA MIS ALUMNOS · PÚBLICAS</text>
+    </g>
   </g>
   <path d="M747 36v278" stroke="#423438"/>
   <rect x="773" y="26" width="399" height="297" fill="url(#grid)"/>
